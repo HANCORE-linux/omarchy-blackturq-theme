@@ -10,7 +10,7 @@ Black Turq is a Theme for https://omarchy.org/.
 To install this theme, simply use the omarchy-theme-install command:
 
 ```bash
-  https://github.com/HANCORE-linux/omarchy-blackgold-theme.git
+  https://github.com/HANCORE-linux/omarchy-blackturq-theme.git
 ```
 
 ## Vesktop-Theme
@@ -18,12 +18,12 @@ To install this theme, simply use the omarchy-theme-install command:
 For Vesktop users, you can install this theme by copying the theme file to your Vesktop themes directory:
 
 ```bash
-  cp system24-blackgold.theme.css ~/.config/vesktop/themes/system24-blackgold.theme.css
+  cp system24-blackturq.theme.css ~/.config/vesktop/themes/system24-blackturq.theme.css
 ```
 
 ## Neovim-Theme
 
-Check Matte-Black https://github.com/tahayvr/matte-black-theme
+see 
 
 ## Waybar-Theme
 
