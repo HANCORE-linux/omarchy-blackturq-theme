@@ -1,0 +1,83 @@
+# ────────────────────────────────────────────────────────────
+# Omarchy Custom Theme for btop
+# Generated with Omarchist
+# ────────────────────────────────────────────────────────────
+
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]="#0a0a0a"
+
+# Main text color
+theme[main_fg]="#DAF6F4"
+
+# Title color for boxes
+theme[title]="#485362"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#40E0D0"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#485362"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#40E0D0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#0a0a0a"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#D35F5F"
+
+# Cpu box outline color
+theme[cpu_box]="#30414b"
+
+# Memory/disks box outline color
+theme[mem_box]="#30414b"
+
+# Net up/down box outline color
+theme[net_box]="#30414b"
+
+# Processes box outline color
+theme[proc_box]="#30414b"
+
+# Box divider line and small boxes line color
+theme[div_line]="#30414b"
+
+# Temperature graph colors
+theme[temp_start]="#485362"
+theme[temp_mid]="#38DDCD"
+theme[temp_end]="#FDE7DB"
+
+# CPU graph colors
+theme[cpu_start]="#485362"
+theme[cpu_mid]="#38DDCD"
+theme[cpu_end]="#FDE7DB"
+
+# Mem/Disk free meter
+theme[free_start]="#485362"
+theme[free_mid]="#38DDCD"
+theme[free_end]="#FDE7DB"
+
+# Mem/Disk cached meter
+theme[cached_start]="#485362"
+theme[cached_mid]="#38DDCD"
+theme[cached_end]="#FDE7DB"
+
+# Mem/Disk available meter
+theme[available_start]="#485362"
+theme[available_mid]="#38DDCD"
+theme[available_end]="#FDE7DB"
+
+# Mem/Disk used meter
+theme[used_start]="#485362"
+theme[used_mid]="#38DDCD"
+theme[used_end]="#FDE7DB"
+
+# Download graph colors
+theme[download_start]="#485362"
+theme[download_mid]="#38DDCD"
+theme[download_end]="#FDE7DB"
+
+# Upload graph colors
+theme[upload_start]="#485362"
+theme[upload_mid]="#38DDCD"
+theme[upload_end]="#FDE7DB"
