@@ -1,6 +1,10 @@
 # Black Turq
 
-Black Turq is a Theme for https://omarchy.org/. 
+Black Turq based of the color pattern of my Evo80 Keyboard (Anodized Ink). Theme is for https://omarchy.org/. 
+<img width="400" height="400" alt="evo80-80-tkl" src="https://github.com/user-attachments/assets/2579c033-75c9-4ad9-b4d3-290a6a2150aa" />
+
+
+
 
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-09-18_00-11-34" src="https://github.com/user-attachments/assets/b93639eb-3525-4d5d-96b4-19938126ea3b" />
