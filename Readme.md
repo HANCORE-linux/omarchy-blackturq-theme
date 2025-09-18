@@ -8,6 +8,7 @@ Black Turq based of the color pattern of my Evo80 Keyboard (Anodized Ink). Theme
 
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-09-18_00-11-34" src="https://github.com/user-attachments/assets/b93639eb-3525-4d5d-96b4-19938126ea3b" />
+- Omarchy Wallpaper made by @Kaii :3 (Discord: kaiidenkat) <br>
 
 # Installation Theme
 
