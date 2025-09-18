@@ -27,7 +27,7 @@ For Vesktop users, you can install this theme by copying the theme file to your 
 
 ## Neovim-Theme
 
-Using https://github.com/bjarneo Pixel Theme which use the colors from terminal syntax https://github.com/bjarneo/pixel.nvim 
+Using https://github.com/bjarneo Pixel Theme which use the colors from terminal syntax. Check https://github.com/bjarneo/pixel.nvim 
 
 ## Waybar-Theme
 
