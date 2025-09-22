@@ -30,7 +30,7 @@ For Vesktop users, you can install this theme by copying the theme file to your 
 
 - Using https://github.com/bjarneo Pixel Theme which use the colors from terminal syntax <br>
 - Check https://github.com/bjarneo/pixel.nvim <br>
-- Beware: Fix on going for color overlapp at comment sections and command enter field <br>
+- Make sure Lazyvim is update to date type :Lazy <br>
 
 ## Waybar-Theme
 
