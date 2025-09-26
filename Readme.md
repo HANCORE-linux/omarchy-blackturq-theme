@@ -32,6 +32,10 @@ For Vesktop users, you can install this theme by copying the theme file to your 
 - Check https://github.com/bjarneo/pixel.nvim <br>
 - Make sure Lazyvim is update to date type :Lazy <br>
 
+## VSCode-Theme
+- Check Theme for Blackturq : https://themes.vscode.one/theme/ibandim/lxKOth1u  its not really 1:1 but still close to it <br>
+- Installation: Open VSCode > Click on Extensions > type: Blueberry dark theme
+
 ## Waybar-Theme
 
 For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
