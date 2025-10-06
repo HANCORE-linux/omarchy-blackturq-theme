@@ -15,7 +15,7 @@ Black Turq based of the color pattern of my Evo80 Keyboard (Anodized Ink). Theme
 To install this theme, simply use the omarchy-theme-install command:
 
 ```bash
-  https://github.com/HANCORE-linux/omarchy-blackturq-theme.git
+  omarchy-theme-install https://github.com/HANCORE-linux/omarchy-blackturq-theme.git
 ```
 
 ## Vesktop-Theme
