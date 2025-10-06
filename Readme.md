@@ -33,8 +33,10 @@ For Vesktop users, you can install this theme by copying the theme file to your 
 - Make sure Lazyvim is update to date type :Lazy <br>
 
 ## VSCode-Theme
-- Check Theme for Blackturq : https://themes.vscode.one/theme/ibandim/lxKOth1u  its not really 1:1 but still close to it <br>
-- Installation: Open VSCode > Click on Extensions > type: Blueberry dark theme
+- Using Theme: - Black 'n Turquoise
+- Using Extension-ID: GD-alt.black--n-turquoise 
+- If Theme is not getting installed , do it manually: Open VSCode > Click on Extensions > type: Black 'n Turquoise
+  
 
 ## Waybar-Theme
 
