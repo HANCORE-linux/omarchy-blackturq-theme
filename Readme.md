@@ -1,6 +1,9 @@
 # Black Turq
 
-Black Turq based of the color pattern of my Evo80 Keyboard (Anodized Ink). Theme is for https://omarchy.org/. 
+Inspired by the anodised‑ink colour pattern of the Evo80 keyboard, this theme fuses deep black with vibrant turquoise accents to create a modern, high‑contrast workspace.
+Designed for the Omarchy environment, it balances sleek minimalism with vivid detail to keep your focus sharp.
+Built out of passion for custom hardware aesthetics and functional beauty — because your system deserves to look as good as it performs.
+
 <img width="400" height="400" alt="evo80-80-tkl" src="https://github.com/user-attachments/assets/2579c033-75c9-4ad9-b4d3-290a6a2150aa" />
 
 
