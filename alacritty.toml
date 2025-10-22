@@ -14,8 +14,8 @@ text = "#121212"
 cursor = "#75dddd"
 
 [colors.selection]
-text = "CellForeground"
-background = "#131314"
+text = "#40E0D0"
+background = "#485362"
 
 [colors.normal]
 black = "#0a0a0a"
