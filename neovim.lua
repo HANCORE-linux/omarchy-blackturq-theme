@@ -1,4 +1,4 @@
-eturn {
+return {
     {
         "bjarneo/aether.nvim",
         name = "aether",
