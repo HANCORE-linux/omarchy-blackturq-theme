@@ -10,3 +10,25 @@
 @define-color border #8FECD5;
 @define-color foreground #e0dfdb;
 @define-color background #0a0a0a;
+
+@define-color hover #8fecd5;
+
+window .search-container,
+window .search {
+  background: alpha(@hover, 0.8);
+  color: @foreground;
+  border: 1px solid alpha(@border, 1);
+  border-radius: 2px;
+  padding: 8px 12px;
+  margin: 4px 0;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+window .box-wrapper {
+    border-radius: 3px;
+    box-shadow: 0 0px 2px alpha(@selected-text, 0.2);
+    backdrop-filter: blur(10px);
+}
+
+
