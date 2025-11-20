@@ -48,7 +48,7 @@ theme[temp_mid]="#38DDCD"
 theme[temp_end]="#FDE7DB"
 
 # CPU graph colors
-theme[cpu_start]="#485362"
+theme[cpu_start]="#68788E"
 theme[cpu_mid]="#38DDCD"
 theme[cpu_end]="#FDE7DB"
 
