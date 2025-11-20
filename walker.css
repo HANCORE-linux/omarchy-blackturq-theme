@@ -35,7 +35,7 @@ window .symbols {
 
 window .box-wrapper {
     background: alpha(@base, 0.95);
-    border: 1px solid alpha(@border, 0.9);
+    border: 2px solid alpha(@border, 0.9);
     border-radius: 0px;
     padding: 6px;
     margin: 0;
