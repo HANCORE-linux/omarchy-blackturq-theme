@@ -7,7 +7,8 @@ Built out of passion for custom hardware aesthetics and functional beauty — be
 <img width="400" height="400" alt="evo80-80-tkl" src="https://github.com/user-attachments/assets/2579c033-75c9-4ad9-b4d3-290a6a2150aa" />
 
 # Screenshots
-<img width="2560" height="1440" alt="screenshot-2025-09-18_00-11-34" src="https://github.com/user-attachments/assets/b93639eb-3525-4d5d-96b4-19938126ea3b" />
+<img width="2560" height="1440" alt="preview (1)" src="https://github.com/user-attachments/assets/d421a274-66f3-44fc-bc1c-0bfecb2cc7d3" />
+
 <img width="2560" height="1440" alt="screenshot-2025-10-31_10-00-52" src="https://github.com/user-attachments/assets/bbec392c-5f9b-4862-a5b2-caf86e17f18a" />
 
 
