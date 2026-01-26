@@ -6,16 +6,16 @@
     @define-color yellow         #A9D1D7;
     @define-color blue           #ADF0E9;
     @define-color magenta        #485362;
-    @define-color cyan           #FFF5EE;
-    @define-color white          #A0D6B4;
+    @define-color cyan           #7cf0ef;
+    @define-color white          #646d7a;
     @define-color bright_black   #322F3B;
     @define-color bright_red     #D35F5F;
     @define-color bright_green   #8FECD5;
     @define-color bright_yellow  #A9D1D7;
     @define-color bright_blue    #ADF0E9;
     @define-color bright_magenta #485362;
-    @define-color bright_cyan    #FFF5EE;
-    @define-color bright_white   #A0D6B4;
+    @define-color bright_cyan    #7cf0ef;
+    @define-color bright_white   #646d7a;
 
     @define-color accent_bg_color @blue;
     @define-color accent_fg_color @background;
@@ -31,11 +31,11 @@
     @define-color sidebar_backdrop_color @black;
     @define-color sidebar_shade_color @black;
 
-    @define-color headerbar_bg_color alpha(@foreground, 0.1);
+    @define-color headerbar_bg_color @background;
     @define-color headerbar_fg_color @foreground;
     @define-color headerbar_backdrop_color @black;
     @define-color headerbar_shade_color @black;
-    @define-color card_bg_color alpha(@foreground, 0.1);
+    @define-color card_bg_color @background;
     @define-color card_fg_color @foreground;
 
     @define-color popover_bg_color @black;
@@ -160,7 +160,7 @@
         background-color: @red;
     }
 
-    .svg-icon {
+    /* .svg-icon {
         filter: invert(79%) sepia(18%) saturate(611%) hue-rotate(192deg)
             brightness(103%) contrast(94%);
-    }
+    } */
