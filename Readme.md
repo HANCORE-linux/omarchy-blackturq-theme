@@ -27,22 +27,11 @@ For Vesktop users, you can install this theme by copying the theme file to your 
 ```bash
 cp system24-blackturq.theme.css ~/.config/vesktop/themes/system24-blackturq.theme.css
 ```
-
-## Neovim-Theme
-
-- Using https://github.com/bjarneo Pixel Theme which use the colors from terminal syntax <br>
-- Check https://github.com/bjarneo/pixel.nvim <br>
-- Make sure Lazyvim is update to date type :Lazy <br>
-
-## VSCode-Theme
-- Using Theme: - Black 'n Turquoise
-- Using Extension-ID: GD-alt.black--n-turquoise 
-- If Theme is not getting installed , do it manually: Open VSCode > Click on Extensions > type: Black 'n Turquoise
   
 
 ## Waybar-Theme
 
-For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
+For my Waybar-Theme simply check my [Link](https://github.com/HANCORE-linux/waybar-themes)
 
 ### License
 
