@@ -53,13 +53,16 @@ window .search-container {
     backdrop-filter: none;
 }
 
-window .input {
+window .search-container text,
+window .input { 
     background: transparent;
-    color: @text;
-    border-radius: 0px;
+    padding: 0px 0px;
+    color: @base;
+    caret-color: @text;
 }
 
-window .search-container text { 
-    color: @base;
-    caret-color: @base;
+window .search-container .placeholder,
+window .search-container entry placeholder {
+  color: @base;
+  opacity: 1;
 }
