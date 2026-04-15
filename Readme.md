@@ -15,8 +15,8 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-blackturq-theme.g
 ```
 # Screenshots
 <img width="2560" height="1440" alt="preview (1)" src="https://github.com/user-attachments/assets/d421a274-66f3-44fc-bc1c-0bfecb2cc7d3" />
+<img width="2560" height="1440" alt="screenshot-2026-04-16_00-47-18" src="https://github.com/user-attachments/assets/4d830471-dfee-42c2-ba56-db3f35e0e8c6" />
 
-<img width="2560" height="1440" alt="screenshot-2025-10-31_10-00-52" src="https://github.com/user-attachments/assets/bbec392c-5f9b-4862-a5b2-caf86e17f18a" />
 
 
 #### Waybar
