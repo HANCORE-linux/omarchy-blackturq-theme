@@ -22,7 +22,7 @@ return {
         -- Accent colors
         red = "#D35F5F",
         orange = "#F6AE2C",
-        yellow = "#7cafb7",
+        yellow = "#75b4be",
         green = "#8FECD5",
         cyan = "#5a676b",
         blue = "#ADF0E9",
