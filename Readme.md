@@ -6,12 +6,6 @@ Built out of passion for custom hardware aesthetics and functional beauty — be
 
 <img width="400" height="400" alt="evo80-80-tkl" src="https://github.com/user-attachments/assets/2579c033-75c9-4ad9-b4d3-290a6a2150aa" />
 
-# Screenshots
-<img width="2560" height="1440" alt="preview (1)" src="https://github.com/user-attachments/assets/d421a274-66f3-44fc-bc1c-0bfecb2cc7d3" />
-
-<img width="2560" height="1440" alt="screenshot-2025-10-31_10-00-52" src="https://github.com/user-attachments/assets/bbec392c-5f9b-4862-a5b2-caf86e17f18a" />
-
-
 # Installation Theme
 
 To install this theme, simply use the omarchy-theme-install command:
@@ -19,20 +13,14 @@ To install this theme, simply use the omarchy-theme-install command:
 ```bash
 omarchy-theme-install https://github.com/HANCORE-linux/omarchy-blackturq-theme.git
 ```
+# Screenshots
+<img width="2560" height="1440" alt="preview (1)" src="https://github.com/user-attachments/assets/d421a274-66f3-44fc-bc1c-0bfecb2cc7d3" />
 
-## Vesktop-Theme
+<img width="2560" height="1440" alt="screenshot-2025-10-31_10-00-52" src="https://github.com/user-attachments/assets/bbec392c-5f9b-4862-a5b2-caf86e17f18a" />
 
-For Vesktop users, you can install this theme by copying the theme file to your Vesktop themes directory:
 
-```bash
-cp system24-blackturq.theme.css ~/.config/vesktop/themes/system24-blackturq.theme.css
-```
-  
+#### Waybar
+[LINK](https://github.com/HANCORE-linux/waybar-themes)
 
-## Waybar-Theme
-
-For my Waybar-Theme simply check my [Link](https://github.com/HANCORE-linux/waybar-themes)
-
-### License
-
-MIT
+#### Recommendations for 3rd-Party App Theming
+Using Bypass Theme-Hook script for GTK, Vesktop, Steam, Spotify etc [LINK](https://github.com/imbypass/omarchy-theme-hook)
