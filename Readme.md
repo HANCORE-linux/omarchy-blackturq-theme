@@ -14,7 +14,8 @@ To install this theme, simply use the omarchy-theme-install command:
 omarchy-theme-install https://github.com/HANCORE-linux/omarchy-blackturq-theme.git
 ```
 # Screenshots
-<img width="2560" height="1440" alt="preview (1)" src="https://github.com/user-attachments/assets/d421a274-66f3-44fc-bc1c-0bfecb2cc7d3" />
+<img width="2560" height="1440" alt="screenshot-2026-04-16_01-14-26" src="https://github.com/user-attachments/assets/9d6baa88-5156-4178-84ef-8e09357e37e2" />
+
 <img width="2560" height="1440" alt="screenshot-2026-04-16_01-10-31" src="https://github.com/user-attachments/assets/6cab2b11-26a1-47d5-8648-ed75b2653897" />
 
 
