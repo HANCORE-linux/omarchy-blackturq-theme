@@ -44,7 +44,7 @@ window .box-wrapper {
 }
 
 window .search-container {
-    border: 2px solid alpha(@border, 0.9);
+    border: 2px solid alpha(@text, 0.9);
     border-radius: 0px;
     padding: 4px 6px;
     margin: 0;
