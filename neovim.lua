@@ -13,8 +13,8 @@ return {
         bg_highlight = "#fc93e4",
 
         -- Foreground colors
-        fg = "#646d7a",
-        fg_dark = "#485362",
+        fg = "#c4d8e2",
+        fg_dark = "#d2d9db",
 
         -- comment: Line highlight, gutter elements, disabled states
         comment = "#322F3B",
