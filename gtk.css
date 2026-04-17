@@ -7,7 +7,7 @@
     @define-color blue           #ADF0E9;
     @define-color magenta        #485362;
     @define-color cyan           #5a676b;
-    @define-color white          #646d7a;
+    @define-color white          #c4d8e2;
     @define-color bright_black   #322F3B;
     @define-color bright_red     #D35F5F;
     @define-color bright_green   #8FECD5;
@@ -15,7 +15,7 @@
     @define-color bright_blue    #ADF0E9;
     @define-color bright_magenta #485362;
     @define-color bright_cyan    #5a676b;
-    @define-color bright_white   #646d7a;
+    @define-color bright_white   #d2d9db;
 
     @define-color accent_bg_color @blue;
     @define-color accent_fg_color @background;
