@@ -10,7 +10,7 @@ return {
         -- Background colors
         bg = "#0a0a0a",
         bg_dark = "#0a0a0a",
-        bg_highlight = "#fc93e4",
+        bg_highlight = "#4b4b4b",
 
         -- Foreground colors
         fg = "#c4d8e2",
@@ -29,6 +29,11 @@ return {
         purple = "#9f6cdd",
         magenta = "#485362",
       },
+      on_highlights = function(hl, c)
+                -- If it's "too dark", use a lighter grey like #2a2a2a
+                hl.CursorLine = { bg = "#161616" } 
+                hl.CursorLineNr = { fg = c.orange, bold = true }
+            end,
     },
     config = function(_, opts)
       require("aether").setup(opts)
