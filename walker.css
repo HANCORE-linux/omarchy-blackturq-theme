@@ -66,3 +66,7 @@ window .search-container entry placeholder {
   color: @base;
   opacity: 1;
 }
+
+child:selected .item-box {
+background-color: @base;
+}
