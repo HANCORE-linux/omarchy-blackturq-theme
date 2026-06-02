@@ -48,7 +48,7 @@ window .search-container {
     border-radius: 0px;
     padding: 4px 6px;
     margin: 0;
-    background: alpha(@border, 0.8);
+    background: alpha(@border, 1);
     box-shadow: inset 0 0 4px alpha(white, 0.05);
     backdrop-filter: none;
 }
@@ -65,8 +65,4 @@ window .search-container .placeholder,
 window .search-container entry placeholder {
   color: @base;
   opacity: 1;
-}
-
-child:selected .item-box {
-background-color: @base;
 }
