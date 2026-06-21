@@ -18,10 +18,8 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-blackturq-theme.g
 
 <img width="2560" height="1440" alt="screenshot-2026-04-16_01-10-31" src="https://github.com/user-attachments/assets/6cab2b11-26a1-47d5-8648-ed75b2653897" />
 
-
-
 #### Waybar
 [LINK](https://github.com/HANCORE-linux/waybar-themes)
 
-#### Recommendations for 3rd-Party App Theming
-Using Bypass Theme-Hook script for GTK, Vesktop, Steam, Spotify etc [LINK](https://github.com/imbypass/omarchy-theme-hook)
+#### Theme-Hook-Manager
+[Link](https://github.com/OldJobobo/theme-hook-plugin-manager)
