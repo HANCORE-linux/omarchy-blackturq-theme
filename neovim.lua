@@ -1,48 +1,56 @@
 return {
   {
     "bjarneo/aether.nvim",
-    branch = "v2",
+    branch = "v3",
     name = "aether",
     priority = 1000,
     opts = {
       transparent = false,
       colors = {
-        -- Background colors
-        bg = "#0a0a0a",
-        bg_dark = "#0a0a0a",
-        bg_highlight = "#4b4b4b",
+        bg         = "#0a0a0a",
+        dark_bg    = "#0a0a0a",
+        darker_bg  = "#050807",
+        lighter_bg = "#14201e",
+        selection  = "#182826",
 
-        -- Foreground colors
-        fg = "#c4d8e2",
-        fg_dark = "#d2d9db",
+        fg         = "#c8dcdc",
+        dark_fg    = "#aabab6",
+        bright_fg  = "#e4f2f0",
+        muted      = "#6e8e8c",
 
-        -- comment: Line highlight, gutter elements, disabled states
-        comment = "#322F3B",
+        red        = "#d35f5f",
+        orange     = "#ff8a4d",
+        yellow     = "#ffd84a",
+        green      = "#8fecd5",
+        cyan       = "#63c9c4",
+        blue       = "#adf0e9",
+        purple     = "#ff3d7f",
+        brown      = "#7fa8a0",
 
-        -- Accent colors
-        red = "#D35F5F",
-        orange = "#eb7087",
-        yellow = "#75b4be",
-        green = "#8FECD5",
-        cyan = "#5a676b",
-        blue = "#ADF0E9",
-        purple = "#9f6cdd",
-        magenta = "#485362",
+        bright_red    = "#ff6a6a",
+        bright_yellow = "#a9b673",
+        bright_green  = "#b4f5e4",
+        bright_cyan   = "#8fe0dc",
+        bright_blue   = "#cbf6f2",
+        bright_purple = "#c58af5",
       },
       on_highlights = function(hl, c)
-                -- If it's "too dark", use a lighter grey like #2a2a2a
-                hl.CursorLine = { bg = "#161616" } 
-                hl.CursorLineNr = { fg = c.orange, bold = true }
-            end,
+        hl.CursorLine = { bg = c.lighter_bg }
+        hl.CursorLineNr = { fg = c.yellow, bold = true }
+        hl.LspReferenceText = { bg = c.selection, fg = c.bright_fg }
+        hl.LspReferenceRead = hl.LspReferenceText
+        hl.LspReferenceWrite = hl.LspReferenceText
+        hl.SnacksPickerDir         = { fg = c.muted }
+        hl.SnacksPickerPathHidden  = { fg = c.muted }
+        hl.SnacksPickerPathIgnored = { fg = c.muted }
+        hl.SnacksPickerListCursorLine = { bg = c.lighter_bg }
+      end,
     },
     config = function(_, opts)
       require("aether").setup(opts)
       vim.cmd.colorscheme("aether")
-      -- Enable hot reload
-      require("aether.hotreload").setup()
     end,
   },
-
   {
     "LazyVim/LazyVim",
     opts = {
