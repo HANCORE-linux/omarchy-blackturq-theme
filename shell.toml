@@ -1,0 +1,149 @@
+# Omarchy Quattro shell surfaces for BlackTurq.
+# Legacy Waybar, Walker, Mako, SwayOSD, and Hyprlock files remain authoritative
+# on Omarchy 3.8.x. These tokens reproduce their supported visual roles in the
+# Quattro shell without changing the legacy files.
+
+[bar]
+background = "#0A0A0A"
+background-alpha = 1.0
+text = "#8FECD5"
+active = "#ADF0E9"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
+
+[hyprland]
+active-border = "#8FECD5"
+active-border-foreground = "#C8DCDC"
+
+[controls]
+normal-color = "#C8DCDC"
+normal-fill-alpha = 0.03
+normal-border-width = 1
+normal-border-alpha = 0.30
+
+hover-cursor-color = "#8FECD5"
+hover-cursor-fill-alpha = 0.12
+hover-cursor-border-width = 2
+hover-cursor-border-alpha = 0.70
+
+focus-color = "#ADF0E9"
+focus-fill-alpha = 0.14
+focus-border-width = 2
+focus-border-alpha = 0.92
+
+selected-color = "#8FECD5"
+selected-fill-alpha = 0.22
+selected-border-width = 2
+selected-border-alpha = 0.90
+
+pressed-color = "#75DDDD"
+pressed-fill-alpha = 0.28
+selection-color = "#8FECD5"
+selection-fill-alpha = 0.42
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+xs = 2
+md = 3
+control-padding-y = 4
+panel-padding = 6
+
+[font]
+base-size = 12
+heading = 16
+icon-large = 24
+
+[popups]
+background = "#0A0A0A"
+background-alpha = 1.0
+text = "#C8DCDC"
+border = "#8FECD5"
+border-alpha = 1.0
+border-width = 2
+
+[tooltip]
+background = "#0A0A0A"
+background-alpha = 0.96
+text = "#C8DCDC"
+border = "#8FECD5"
+border-alpha = 0.75
+border-width = 1
+
+[notifications]
+background = "#0D0D0D"
+background-alpha = 1.0
+text = "#C8DCDC"
+border = "#8FECD5"
+border-alpha = 1.0
+border-width = 2
+countdown = "#8FECD5"
+
+[launcher]
+background = "#0A0A0A"
+background-alpha = 0.95
+text = "#A9D1D7"
+border = "#8FECD5"
+border-alpha = 0.90
+border-width = 2
+scrim = "#0A0A0A"
+scrim-alpha = 0.0
+selected-background = "#485362"
+selected-background-alpha = 0.34
+selected-text = "#ADF0E9"
+selected-border = "#5A676B"
+selected-border-alpha = 1.0
+selected-border-width = 1
+
+[menu]
+background = "#0A0A0A"
+background-alpha = 0.95
+text = "#A9D1D7"
+border = "#8FECD5"
+border-alpha = 0.90
+border-width = 2
+scrim = "#0A0A0A"
+scrim-alpha = 0.0
+selected-background = "#485362"
+selected-background-alpha = 0.34
+selected-text = "#ADF0E9"
+selected-border = "#5A676B"
+selected-border-alpha = 1.0
+selected-border-width = 1
+
+[polkit]
+background = "#0A0A0A"
+background-alpha = 0.96
+text = "#C8DCDC"
+text-error = "#D35F5F"
+border = "#8FECD5"
+border-error = "#D35F5F"
+border-alpha = 1.0
+border-width = 2
+scrim = "#0A0A0A"
+scrim-alpha = 0.50
+accent = "#8FECD5"
+
+[lock]
+background = "#131314"
+background-alpha = 1.0
+text = "#8FECD5"
+placeholder = "#8FECD5B3"
+text-error = "#D35F5F"
+border = "#8FECD5"
+border-active = "#8FECD5"
+border-error = "#D35F5F"
+border-alpha = 1.0
+border-width = 2
+selection = "#8FECD5"
+selection-alpha = 0.45
+
+[image-picker]
+scrim = "#0A0A0A"
+scrim-alpha = 0.50
+text = "#C8DCDC"
+selected-border = "#8FECD5"
+selected-border-alpha = 1.0
+unselected-border = "#C8DCDC"
+unselected-border-alpha = 0.28
