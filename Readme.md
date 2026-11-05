@@ -13,6 +13,14 @@ To install this theme, simply use the omarchy-theme-install command:
 ```bash
 omarchy-theme-install https://github.com/HANCORE-linux/omarchy-blackturq-theme.git
 ```
+## Animated background (optional)
+
+A turquoise particle-wave video is available as an optional moving background:
+
+[![Particle-wave background preview](docs/blackturq-motion-preview.jpg)](backgrounds/blackturq-motion-loop.mp4)
+
+[Download the loop](backgrounds/blackturq-motion-loop.mp4) · [Playback and source details](docs/animated-background.md)
+
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2026-04-16_01-14-26" src="https://github.com/user-attachments/assets/9d6baa88-5156-4178-84ef-8e09357e37e2" />
 
