@@ -21,16 +21,6 @@ A turquoise particle-wave video is available as an optional moving background:
 
 [Download the loop](backgrounds/blackturq-motion-loop.mp4) · [Playback and source details](docs/animated-background.md)
 
-The silent H.264 video runs at 60 fps and loops every 11.5 seconds. It is an
-upscaled 2048 × 1280 render from a 720p Gemini-generated source, with optical-flow
-interpolation and a motion-aligned transition.
-
-After installing the theme, select it in a video-capable Omarchy version:
-
-```bash
-omarchy theme bg set "$HOME/.config/omarchy/themes/blackturq/backgrounds/blackturq-motion-loop.mp4"
-```
-
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2026-04-16_01-14-26" src="https://github.com/user-attachments/assets/9d6baa88-5156-4178-84ef-8e09357e37e2" />
 
