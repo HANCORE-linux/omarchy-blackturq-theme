@@ -14,7 +14,7 @@ still images and theme settings remain available.
 | Frame rate | 60 fps |
 | Duration | 11.5 seconds, 690 frames |
 | Audio | None |
-| File size | 78,593,058 bytes (about 75 MiB) |
+| File size | 46,707,146 bytes (about 45 MiB) |
 
 The source is a 1280 × 720 Gemini-generated video supplied by the contributor.
 This export is upscaled, rather than native 4K. Processing includes optical-flow
@@ -46,8 +46,10 @@ rendered output. Sampling it into 690 frames produces the 11.5-second cycle at
 neighboring frames; the motion always moves forward.
 
 The final export applies luminance sharpening before and after Lanczos scaling,
-then mild contrast and saturation adjustments. H.264 encoding uses x264's
-`medium` preset, CRF 12, `yuv420p`, and MP4 `+faststart`. The source is scaled to
+then mild contrast and saturation adjustments. H.264 encoding first used x264's
+`medium` preset at CRF 12. That export was then re-encoded with the `slower`
+preset, CRF 15, `yuv420p`, and MP4 `+faststart` to stay under the theme
+registry's 50 MiB per-file limit. The source is scaled to
 2276×1280, then center-cropped to 2048×1280. These effects are already baked
 into the video; playback needs no custom processing script.
 
@@ -81,7 +83,7 @@ omarchy theme bg set "$HOME/Videos/blackturq-motion-extended.mp4"
 ```
 
 The output is 138 seconds long and
-about 943 MB. Stream copy preserves the encoded image quality. The same cycle
+about 560 MB. Stream copy preserves the encoded image quality. The same cycle
 plays every 11.5 seconds, while the actual end-of-file seek occurs once every
 138 seconds. It can still pause at that final boundary, depending on the player.
 
